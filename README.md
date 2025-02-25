@@ -33,17 +33,6 @@ Through this project, I aim to familiarize myself with:
 
 This project is purely for educational purposes and personal learning. It is not intended for production use or real financial transactions. The code and concepts demonstrated here should be viewed as experimental and not financial advice.
 
-## Ongoing Learning
+## Screenshots
+![image](https://github.com/user-attachments/assets/496221d7-8b02-459a-a163-1d03136603d6)
 
-As I continue to develop this project, I plan to:
-
-- Explore more advanced DeFi concepts
-- Implement additional features as I learn about them
-- Refine the code based on best practices and security considerations
-- Possibly integrate with front-end technologies to create a full DApp experience
-
-## Feedback and Collaboration
-
-While this is a personal learning project, I'm open to feedback, suggestions, and discussions about DeFi and blockchain technology. Feel free to open issues or reach out if you have insights to share!
-
-Remember: Always do your own research and consult with financial and legal professionals before engaging in any real-world DeFi or cryptocurrency activities.
